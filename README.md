@@ -25,6 +25,8 @@ Training
 
 1.Epochs
 2.Batch Size
+3.Loss Function
+4.Optimizer
 
 
 
