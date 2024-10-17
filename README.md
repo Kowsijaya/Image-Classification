@@ -9,6 +9,8 @@ This project implements a neural network for recognizing handwritten digits usin
 
 
 Neural network consists of
+
+
 1.Input Layer
 2.Hidden Layer
 3.Output Layer
@@ -19,6 +21,8 @@ Neural network consists of
 
 
 Training
+
+
 1.Epochs
 2.Batch Size
 
@@ -29,7 +33,15 @@ Training
 
 
 The main modules and packages used in the digit recognition neural network project:
+
+
+
+
+
 Required Packages:
+
+
+
 1.Tensor Flow
 2.Keras
 3.Matplotlib
@@ -41,6 +53,8 @@ Required Packages:
 
 
 Preprocessing Technique
+
+
 1.Normalization
 2.Reshaping
 3.Splitting Dataset
