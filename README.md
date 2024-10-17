@@ -1,6 +1,8 @@
 # Image-Classification
 
-This project implements a neural network for recognizing handwritten digits using the MNIST dataset. The model is built with [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/).
+This project implements a neural network for recognizing handwritten digits using Neural Network. The model is built with [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/).
+
+
 
 
 Neural network consists of
@@ -8,9 +10,15 @@ Neural network consists of
 2.Hidden Layer
 3.Output Layer
 
+
+
+
 Training
 1.Epochs
 2.Batch Size
+
+
+
 
 The main modules and packages used in the digit recognition neural network project:
 Required Packages:
@@ -18,6 +26,8 @@ Required Packages:
 2.Keras
 3.Matplotlib
 4.Numpy
+
+
 
 
 Preprocessing Technique
